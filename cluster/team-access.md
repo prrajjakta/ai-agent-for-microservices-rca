@@ -3,6 +3,7 @@
 VM Public IP: 172.198.60.45
 
 Accounts created:
+- Admin account: azureuser (Prajakta Padwalkar)
 - person2 (Ajinkya Mhasrup)
 - person3 (Ekta Zope)
 - person4 (Apurva Torkad)
